@@ -1,0 +1,18 @@
+h1 {
+text-align: center;
+margin: 12px 0;
+font-family: 'Georgia', Georgia, serif;
+font-size: 2.0;
+font-weight: bolder;
+
+}
+
+img {
+max-width: 50%;
+}
+
+body {
+font-family: 'Georgia', Georgia, serif;
+font-weight: normal;
+text-align: center;
+}
