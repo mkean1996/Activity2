@@ -1,8 +1,8 @@
 h1 {
 text-align: center;
-margin: 12px 0;
+margin: 9px 0;
 font-family: 'Georgia', Georgia, serif;
-font-size: 2.0;
+font-size: 3.0;
 font-weight: bolder;
 }
 
@@ -21,8 +21,8 @@ font-weight: normal;
 text-align: center;
 }
 
- .basicwrapper {
-   max-width: 900px;
+ #basicwrapper {
+   max-width: 500px;
    margin: 0 auto;
    padding: 0 5%;
 
