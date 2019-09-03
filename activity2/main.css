@@ -10,6 +10,11 @@ img {
 max-width: 50%;
 }
 
+header {
+ background: #AD371E;
+ border-color: #900C3F;
+}
+
 body {
 font-family: 'Georgia', Georgia, serif;
 font-weight: normal;
