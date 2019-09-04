@@ -1,3 +1,0 @@
-Confirm you are able to push back updates in this directory. Just type your name below and run 'git push' command.
-Michael Kean
-
