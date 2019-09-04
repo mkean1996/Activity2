@@ -2,12 +2,22 @@ h1 {
 text-align: center;
 margin: 9px 0;
 font-family: 'Georgia', Georgia, serif;
-font-size: 3.0;
+font-size: 32pt;
 font-weight: bolder;
 }
 
+h2 {
+text-align: center;
+margin: 10px 0;
+font-family: 'Georgia', Georgia, serif;
+font-size: 16pt;
+font-weight: light;
+}
+
+
 img {
 max-width: 50%;
+border-radius: 85%
 }
 
 header {
@@ -19,11 +29,20 @@ body {
 font-family: 'Georgia', Georgia, serif;
 font-weight: normal;
 text-align: center;
+background:#816F9B ;
 }
 
  #basicwrapper {
    max-width: 500px;
    margin: 0 auto;
    padding: 0 5%;
+    background: #EEEBF3 ;
+
+ }
+  #basicwrapper2 {
+   max-width: 500px;
+   margin: 0 auto;
+   padding: 0 5%;
+    background: #76599F ;
 
  }
